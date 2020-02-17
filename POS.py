@@ -1,4 +1,4 @@
-def POS(self, RGB, fps):
+def POS(RGB, fps):
     l = int(fps)
     N = len(RGB)
     H = np.zeros(N)
